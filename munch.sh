@@ -128,7 +128,7 @@ cd tmp
 7za a -mx9 tmp.zip *
 cd ..
 rm -f *.zip
-cp -fp tmp/tmp.zip RealKing-Munch-${zip_name}-$TIME.zip
+cp -fp tmp/tmp.zip Predator-Kernel-Munch-${zip_name}-$TIME.zip
 rm -rf tmp
 echo $TIME
 

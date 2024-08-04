@@ -4,12 +4,12 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=REAL-KING KERNEL by ROHAIL(@Rohail33)--Telegram
+kernel.string=Predator Kernel (POCO F4) By : (@VEKTOR_87)--Telegram
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
-do.cleanuponabort=0
+do.cleanuponabort=1
 device.name1=munch
 device.name2=munchin
 device.name3=
